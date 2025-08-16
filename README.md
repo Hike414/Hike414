@@ -38,36 +38,36 @@ Certified in cloud computing, security, and data analytics (AWS, IBM, Palo Alto,
 
 # 💻 Tech Stack
 
-### 🔐 Security & Networking
-- Network Security  
-- Information Security  
-- Firewall Management  
-- Penetration Testing  
-- Threat Analysis  
-- Vulnerability Assessment  
-- Computer Networks  
+### 🔐 Security & Networking  
+![Network Security](https://img.shields.io/badge/Network%20Security-000000?style=plastic&logo=hackaday&logoColor=white)  
+![Information Security](https://img.shields.io/badge/Information%20Security-0052CC?style=plastic&logo=datadog&logoColor=white)  
+![Firewall Management](https://img.shields.io/badge/Firewall-EE1D52?style=plastic&logo=fortinet&logoColor=white)  
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=plastic&logo=protonvpn&logoColor=white)  
+![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-FF6F00?style=plastic&logo=checkmarx&logoColor=white)  
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-FF0000?style=plastic&logo=bugcrowd&logoColor=white)  
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2C2255?style=plastic&logo=cisco&logoColor=white)  
 
-### 💻 Programming & Scripting
-- Python  
-- Bash  
-- SQL Injection  
+### 💻 Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
+![Bash](https://img.shields.io/badge/Bash%20Script-121011?style=plastic&logo=gnu-bash&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL%20Injection-003B57?style=plastic&logo=databricks&logoColor=white)  
 
-### 🛠 Tools & Platforms
-- Kali Linux  
-- Wireshark  
-- Nmap  
-- Metasploit  
-- Burp Suite  
-- Nessus  
+### 🛠 Tools & Platforms  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=plastic&logo=securityscorecard&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-2E8B57?style=plastic&logo=undp&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=plastic&logo=burpsuite&logoColor=white)  
+![Nessus](https://img.shields.io/badge/Nessus-009639?style=plastic&logo=tenable&logoColor=white)  
 
-### 🎯 Techniques & Methodologies
-- Phishing  
-- Social Engineering  
-- Threat Hunting  
+### 🎯 Techniques & Methodologies  
+![Phishing](https://img.shields.io/badge/Phishing-CC0000?style=plastic&logo=maildotru&logoColor=white)  
+![Social Engineering](https://img.shields.io/badge/Social%20Engineering-333333?style=plastic&logo=riseup&logoColor=white)  
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-FF4088?style=plastic&logo=sonarqube&logoColor=white)  
 
-### 🖥 Operating Systems
-- Linux  
-- Windows  
+### 🖥 Operating Systems  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)  
 
 ---
 
