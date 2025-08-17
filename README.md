@@ -1,5 +1,5 @@
-<!-- MATRIX RAIN TOP -->
-<img src="https://raw.githubusercontent.com/Hike414/Hike414/main/assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
+<!-- MATRIX RAIN TOP (external CC0 source) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Matrix_Digital_rain_banner.gif" width="100%" alt="Matrix Rain"/>
 
 <!-- HEADER -->
 <div align="center" style="background:#000; padding:16px 0;">
@@ -15,45 +15,47 @@
 
 ---
 
+<!-- Wrap content blocks in black to ensure full dark look -->
+<div style="background:#000; padding:12px 16px; border-radius:8px;">
+
 ## 🛠️ Tech Stack
 
-<!-- Dark block for the section -->
-<div style="background:#000; padding:12px; border-radius:8px;">
-
 ### 🔐 Security & Networking
-<img src="https://img.shields.io/badge/Network%20Security-111111?logo=cloudflare&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Information%20Security-111111?logo=protonmail&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Firewall%20Management-111111?logo=fortinet&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Penetration%20Testing-111111?logo=kalilinux&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Threat%20Analysis-111111?logo=virustotal&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Vulnerability%20Assessment-111111?logo=tenable&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Computer%20Networks-111111?logo=cisco&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
+<img src="https://img.shields.io/badge/Network%20Security-111111?logo=cloudflare&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Information%20Security-111111?logo=protonmail&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Firewall%20Management-111111?logo=fortinet&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Penetration%20Testing-111111?logo=kalilinux&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Threat%20Analysis-111111?logo=virustotal&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<!-- Vulnerability Assessment added with Tenable logo -->
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-111111?logo=tenable&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Computer%20Networks-111111?logo=cisco&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
 
 ### 💻 Programming & Scripting
-<img src="https://img.shields.io/badge/Python-111111?logo=python&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Bash-111111?logo=gnubash&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/SQL-111111?logo=postgresql&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
+<img src="https://img.shields.io/badge/Python-111111?logo=python&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Bash-111111?logo=gnubash&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/SQL-111111?logo=postgresql&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
 
 ### ⚙️ Tools & Platforms
-<img src="https://img.shields.io/badge/Kali%20Linux-111111?logo=kalilinux&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Wireshark-111111?logo=wireshark&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<!-- Nmap lacks a Simple Icons logo; using gnome-terminal as a clean terminal-like fallback -->
-<img src="https://img.shields.io/badge/Nmap-111111?logo=gnometerminal&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<!-- Metasploit has no Simple Icons; using a neutral placeholder -->
-<img src="https://img.shields.io/badge/Metasploit-111111?logo=adblock&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<!-- Burp Suite uses PortSwigger brand -->
-<img src="https://img.shields.io/badge/Burp%20Suite-111111?logo=portswigger&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Nessus-111111?logo=tenable&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
+<img src="https://img.shields.io/badge/Kali%20Linux-111111?logo=kalilinux&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Wireshark-111111?logo=wireshark&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<!-- Nmap has no Simple Icons; terminal fallback -->
+<img src="https://img.shields.io/badge/Nmap-111111?logo=gnometerminal&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<!-- Metasploit lacks official Simple Icons; neutral placeholder -->
+<img src="https://img.shields.io/badge/Metasploit-111111?logo=adblock&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<!-- Burp Suite via PortSwigger -->
+<img src="https://img.shields.io/badge/Burp%20Suite-111111?logo=portswigger&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<!-- Nessus/Tenable already covered above; keeping here if you want both -->
+<img src="https://img.shields.io/badge/Nessus-111111?logo=tenable&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
 
 ### 🕵️ Techniques & Methodologies
-<!-- Concepts don't have brands; use tasteful stand-ins -->
-<img src="https://img.shields.io/badge/Phishing-111111?logo=gmail&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Social%20Engineering-111111?logo=hackaday&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Threat%20Hunting-111111?logo=prowlarr&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
+<img src="https://img.shields.io/badge/Phishing-111111?logo=gmail&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Social%20Engineering-111111?logo=hackaday&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<img src="https://img.shields.io/badge/Threat%20Hunting-111111?logo=prowlarr&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
 
 ### 💽 Operating Systems
-<img src="https://img.shields.io/badge/Linux-111111?logo=linux&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
-<img src="https://img.shields.io/badge/Windows-111111?logo=windows&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
+<img src="https://img.shields.io/badge/Linux-111111?logo=linux&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
+<!-- Windows added -->
+<img src="https://img.shields.io/badge/Windows-111111?logo=windows&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
 
 </div>
 
@@ -72,14 +74,14 @@
 
 ## 📬 Connect with Me
 <a href="mailto:iam.kvrevanth@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?logo=gmail&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
+  <img src="https://img.shields.io/badge/Email-111111?logo=gmail&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
 </a>
 <a href="https://www.linkedin.com/in/kodukula-venkat-revanth-9ab052265/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?logo=linkedin&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
+  <img src="https://img.shields.io/badge/LinkedIn-111111?logo=linkedin&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
 </a>
 <a href="https://github.com/Hike414">
-  <img src="https://img.shields.io/badge/GitHub-111111?logo=github&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=111111&logoWidth=34" />
+  <img src="https://img.shields.io/badge/GitHub-111111?logo=github&logoColor=00FF00&style=for-the-badge&labelColor=000000&color=0A0A0A&logoWidth=34" />
 </a>
 
-<!-- MATRIX RAIN BOTTOM -->
-<img src="https://raw.githubusercontent.com/Hike414/Hike414/main/assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
+<!-- MATRIX RAIN BOTTOM (external CC0 source) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Matrix_Digital_rain_banner.gif" width="100%" alt="Matrix Rain"/>
