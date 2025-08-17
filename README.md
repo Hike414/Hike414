@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack  
 
 ### 🔐 Security & Networking  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Network%20Security-0078D7?logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Information%20Security-FF6F00?logo=protonmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Firewall%20Management-FF0000?logo=fortinet&logoColor=white" />
@@ -22,14 +22,14 @@
 </p>
 
 ### 💻 Programming & Scripting  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Injection-003B57?logo=databricks&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?logo=gnometerminal&logoColor=white" />
@@ -39,14 +39,14 @@
 </p>
 
 ### 🕵️ Techniques & Methodologies  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Phishing-DD2A7B?logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Social%20Engineering-FF0000?logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/Threat%20Hunting-FFD700?logo=apachecassandra&logoColor=black" />
 </p>
 
 ### 💽 Operating Systems  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 </p>
@@ -67,7 +67,7 @@
 
 ## 📬 Connect with Me  
 
-<p align="center">
+<p>
   <a href="mailto:iam.kvrevanth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kodukula-venkat-revanth-9ab052265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Hike414"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
