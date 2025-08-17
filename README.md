@@ -1,6 +1,3 @@
-<!-- MATRIX RAIN TOP (banner) -->
-<img src="https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" width="100%" alt="Matrix Rain"/>
-
 <!-- HERO with faded Matrix background -->
 <div align="center" style="
   background: linear-gradient(rgba(0,0,0,0.78), rgba(0,0,0,0.78)),
@@ -105,6 +102,3 @@
 </div>
 
 <br/>
-
-<!-- MATRIX RAIN BOTTOM (footer banner) -->
-<img src="https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" width="100%" alt="Matrix Rain"/>
