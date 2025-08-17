@@ -1,6 +1,6 @@
 <!-- Matrix Rain Banner Top -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hike414/Hike414/main/assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
+  <img src="assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
 </p>
 
 <!-- Typing Animation Header -->
@@ -70,5 +70,5 @@
 
 <!-- Matrix Rain Banner Bottom -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hike414/Hike414/main/assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
+  <img src="assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
 </p>
