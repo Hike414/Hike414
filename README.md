@@ -1,11 +1,11 @@
 <!-- Matrix Rain Banner Top -->
 <p align="center">
-  <img src="assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
+  <img src="./assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
 </p>
 
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+KV+Revanth;Cybersecurity+Enthusiast;Pentester+%7C+Security+Researcher;Malware Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+KV+Revanth;Cybersecurity+Enthusiast;Pentester+%7C+Security+Researcher;Malware+Analysis" alt="Typing SVG" />
 </h1>
 
 ---
@@ -13,14 +13,13 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  
   <!-- Security & Networking -->
   <img src="https://img.shields.io/badge/Network%20Security-008000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Information%20Security-006400?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firewall%20Management-228B22?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Penetration%20Testing-006400?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threat%20Analysis-2E8B57?style=for-the-badge&logo=threatmodeler&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-556B2F?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Information%20Security-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firewall%20Management-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Threat%20Analysis-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-556B2F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Networks-006400?style=for-the-badge&logo=cisco&logoColor=white"/>
 
   <!-- Programming & Scripting -->
@@ -31,20 +30,19 @@
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nessus-008080?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nessus-008080?style=for-the-badge"/>
 
   <!-- Techniques & Methodologies -->
-  <img src="https://img.shields.io/badge/Phishing-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Social%20Engineering-800000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threat%20Hunting-2F4F4F?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phishing-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Social%20Engineering-800000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-2F4F4F?style=for-the-badge"/>
 
   <!-- Operating Systems -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
 </p>
 
 ---
@@ -72,5 +70,5 @@
 
 <!-- Matrix Rain Banner Bottom -->
 <p align="center">
-  <img src="assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
+  <img src="./assets/matrix_rain_tall_small.gif" width="100%" alt="Matrix Rain"/>
 </p>
