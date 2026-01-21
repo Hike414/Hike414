@@ -1,259 +1,202 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=900&lines=┌──[root@security]~;└─$+whoami;KV+REVANTH;┌──[root@security]~;└─$+./initiate_hack.sh;[+]+Cybersecurity+Enthusiast;[+]+Pentester+%7C+Security+Researcher;[+]+Malware+Analysis+Expert;[+]+System+Penetration+Specialist" alt="Hacker Terminal Header"/>
-</div>
-<div align="center">
-  
-**Crafting security tools • Exploiting weaknesses to understand them • Exploring offensive & defensive security• Breaking systems to understand, improve & innovate • making machines behave unexpectedly**
+
+# 🛡️ KV Revanth
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Defensive+Security+Researcher;Threat+Intelligence+Analyst;SOC+Operations+%7C+Incident+Response;Building+Robust+Security+Systems" alt="Typing SVG" />
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam.kvrevanth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodukula-venkat-revanth-9ab052265/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hike414)
 
 </div>
 
 ---
 
-┌──[root@security]~  
-└─$ cat /etc/passwd | grep kv_revanth  
-kv_revanth:x:0:0:Cybersecurity Expert,Pentester,Malware Analyst:/root:/bin/bash
+## 👨‍💻 About Me
 
-## 🔴 ACCESS GRANTED • INFILTRATION MODE ACTIVATED
+Security researcher passionate about **defensive security**, **threat intelligence**, and **incident response**. Currently working on building detection systems, analyzing threat patterns, and strengthening organizational security posture through proactive monitoring and response.
 
-[+] Initializing security protocols...  
-[+] Loading exploit modules...  
-[+] Connecting to mainframe...  
-[████████████████████████████████] 100% Complete  
-[+] Welcome to the Matrix, KV Revanth
-
-## ⚡ ARSENAL • DIGITAL WEAPONRY
-
-### 🎯 PENETRATION TESTING SUITE
-┌──[root@kali]~  
-└─$ ls /opt/pentesting/
-
-![Network Security](https://img.shields.io/badge/Network_Security-00FF00?style=flat&logo=cloudflare&logoColor=black&labelColor=00FF00&color=black)
-![Information Security](https://img.shields.io/badge/Information_Security-00FF00?style=flat&logo=protonmail&logoColor=black&labelColor=00FF00&color=black)
-![Firewall Management](https://img.shields.io/badge/Firewall_Bypass-00FF00?style=flat&logo=fortinet&logoColor=black&labelColor=00FF00&color=black)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-00FF00?style=flat&logo=kalilinux&logoColor=black&labelColor=00FF00&color=black)
-![Threat Analysis](https://img.shields.io/badge/Threat_Hunting-00FF00?style=flat&logo=virustotal&logoColor=black&labelColor=00FF00&color=black)
-![Vulnerability Assessment](https://img.shields.io/badge/0day_Research-00FF00?style=flat&logo=tenable&logoColor=black&labelColor=00FF00&color=black)
-
-### 💀 EXPLOITATION FRAMEWORK
-┌──[root@kali]~  
-└─$ msfconsole -q
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-00FF00?style=flat&logo=kalilinux&logoColor=black&labelColor=00FF00&color=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-00FF00?style=flat&logo=wireshark&logoColor=black&labelColor=00FF00&color=black)
-![Nmap](https://img.shields.io/badge/Nmap-00FF00?style=flat&logo=gnometerminal&logoColor=black&labelColor=00FF00&color=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-00FF00?style=flat&logo=adblock&logoColor=black&labelColor=00FF00&color=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-00FF00?style=flat&logo=portswigger&logoColor=black&labelColor=00FF00&color=black)
-![Nessus](https://img.shields.io/badge/Nessus-00FF00?style=flat&logo=tenable&logoColor=black&labelColor=00FF00&color=black)
-
-### 🐍 CODE INJECTION MODULES
-┌──[root@kali]~  
-└─$ python3 -c "import sys; print('Python loaded')"
-
-![Python](https://img.shields.io/badge/Python-00FF00?style=flat&logo=python&logoColor=black&labelColor=00FF00&color=black)
-![Bash](https://img.shields.io/badge/Bash-00FF00?style=flat&logo=gnubash&logoColor=black&labelColor=00FF00&color=black)
-![SQL](https://img.shields.io/badge/SQL_Injection-00FF00?style=flat&logo=postgresql&logoColor=black&labelColor=00FF00&color=black)
-
-### 🕵️ SOCIAL ENGINEERING TACTICS
-┌──[root@kali]~  
-└─$ ./social_engineer_toolkit.py --target=corporate
-
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-00FF00?style=flat&logo=prowlarr&logoColor=black&labelColor=00FF00&color=black)
-![Phishing](https://img.shields.io/badge/Phishing_Campaigns-00FF00?style=flat&logo=gmail&logoColor=black&labelColor=00FF00&color=black)
-![Social Engineering](https://img.shields.io/badge/Social_Engineering-00FF00?style=flat&logo=hackaday&logoColor=black&labelColor=00FF00&color=black)
-
-### 🖥️ OPERATING SYSTEM EXPLOITATION
-┌──[root@kali]~  
-└─$ uname -a && cat /proc/version
-
-![Linux](https://img.shields.io/badge/Linux_Exploits-00FF00?style=flat&logo=linux&logoColor=black&labelColor=00FF00&color=black)
-![Windows](https://img.shields.io/badge/Windows_Exploits-00FF00?style=flat&logo=windows&logoColor=black&labelColor=00FF00&color=black)
+```python
+class SecurityAnalyst:
+    def __init__(self):
+        self.name = "KV Revanth"
+        self.role = "Defensive Security Researcher"
+        self.focus = ["Threat Detection", "Incident Response", "SOC Operations"]
+        self.current_work = "Building next-gen security monitoring systems"
+    
+    def get_expertise(self):
+        return {
+            "defense": ["SIEM", "IDS/IPS", "EDR", "Threat Hunting"],
+            "intelligence": ["IOC Analysis", "MITRE ATT&CK", "Threat Modeling"],
+            "response": ["DFIR", "Malware Analysis", "Security Automation"]
+        }
+```
 
 ---
 
-## 🚨 ACTIVE OPERATIONS • CLASSIFIED PROJECTS
+## 🔬 Research Interests
 
-┌──[root@darknet]~  
-└─$ ls -la /home/kv_revanth/projects/classified/
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🛰️ DRONE DETECTION SYSTEM</h3>
-          <img src="https://img.shields.io/badge/Status-ACTIVE-00FF00?style=for-the-badge&logo=radar&logoColor=black&labelColor=FF0000" alt="Status"/>
-          <br><br>
-          <strong>[CLASSIFIED]</strong><br>
-          <code>├── RF/Wi‑Fi/BLE signal fingerprinting: INITIATED</code><br>
-          <code>├── Anomalous flight pattern detection: ONLINE</code><br>
-          <code>├── Real-time rogue UAV alerts: OPERATIONAL</code><br>
-          <code>└── Threat Level: CRITICAL ⚠️</code>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>⚡ BADUSB EXPLOITATION PROJECT</h3>
-          <img src="https://img.shields.io/badge/Status-WEAPONIZED-FF0000?style=for-the-badge&logo=usb&logoColor=white&labelColor=000000" alt="Status"/>
-          <br><br>
-          <strong>[CLASSIFIED]</strong><br>
-          <code>├── Malicious USB payload delivery: ARMED</code><br>
-          <code>├── Endpoint security bypass: COMPLETE</code><br>
-          <code>├── HID attack vectors: LOADED</code><br>
-          <code>└── WARNING: Authorized testing only ⚡</code>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🎯 CYBER RANGE SIMULATION</h3>
-          <img src="https://img.shields.io/badge/Status-CONSTRUCTING-FFFF00?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="Status"/>
-          <br><br>
-          <strong>[CLASSIFIED]</strong><br>
-          <code>├── Attack-defense laboratories: BUILDING</code><br>
-          <code>├── Pentesting technique sandbox: ACTIVE</code><br>
-          <code>├── Red Team vs Blue Team: SCENARIOS</code><br>
-          <code>└── Clearance Level: TOP SECRET 🔒</code>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🔑 HASH CRACKER MODULE</h3>
-          <img src="https://img.shields.io/badge/Status-OPTIMIZING-00FFFF?style=for-the-badge&logo=key&logoColor=black&labelColor=000000" alt="Status"/>
-          <br><br>
-          <strong>[CLASSIFIED]</strong><br>
-          <code>├── GPU-accelerated analysis: RUNNING</code><br>
-          <code>├── Dictionary/Rainbow attacks: READY</code><br>
-          <code>├── Password strength validation: ACTIVE</code><br>
-          <code>└── Encryption Level: MILITARY GRADE 🛡️</code>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🛡️ FILE INTEGRITY MONITOR</h3>
-          <img src="https://img.shields.io/badge/Status-SURVEILLANCE-800080?style=for-the-badge&logo=shield&logoColor=white&labelColor=000000" alt="Status"/>
-          <br><br>
-          <strong>[CLASSIFIED]</strong><br>
-          <code>├── Real-time file monitoring: ACTIVE</code><br>
-          <code>├── Unauthorized change detection: ON</code><br>
-          <code>├── Endpoint security hardening: ENABLED</code><br>
-          <code>└── Monitoring: 24/7 OPERATIONAL 👁️</code>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🌐 DDoS DETECTION GRID</h3>
-          <img src="https://img.shields.io/badge/Status-INTERCEPTING-FF6600?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=000000" alt="Status"/>
-          <br><br>
-          <strong>[CLASSIFIED]</strong><br>
-          <code>├── DoS attack detection: SCANNING</code><br>
-          <code>├── Real-time traffic analysis: RUNNING</code><br>
-          <code>├── Automated mitigation: STANDBY</code><br>
-          <code>└── Network Defense: FORTRESS MODE 🏰</code>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🕵️ DTPE FRAMEWORK</h3>
-          <img src="https://img.shields.io/badge/Status-GHOST_PROTOCOL-000000?style=for-the-badge&logo=tor&logoColor=white&labelColor=330033" alt="Status"/>
-          <br><br>
-          <strong>[CLASSIFIED]</strong><br>
-          <code>├── Dynamic TLS fingerprinting: MORPHING</code><br>
-          <code>├── Advanced evasion techniques: ACTIVE</code><br>
-          <code>├── Traffic obfuscation: ALGORITHMS</code><br>
-          <code>└── Stealth Level: MAXIMUM 👻</code>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🚀 FUTURE OPERATIONS</h3>
-          <img src="https://img.shields.io/badge/Status-INCOMING-666666?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" alt="Status"/>
-          <br><br>
-          <strong>[CLASSIFIED]</strong><br>
-          <code>├── Next-gen exploits: IN DEVELOPMENT</code><br>
-          <code>├── AI-powered reconnaissance: LEARNING</code><br>
-          <code>├── Quantum-resistant algorithms: RESEARCH</code><br>
-          <code>└── Innovation Level: BEYOND LIMITS 🌌</code>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🔐 **Cybersecurity and Network Defense Systems**
+- 🎯 **Cyber Threat Intelligence (CTI)**
+- ⚡ **Automated Incident Response**
+
+</td>
+<td width="50%">
+
+- 🤖 **AI for Threat Detection**
+- 🌐 **Secure and Distributed Systems**
+- 🍯 **Cyber Range Design and Honeypot Architectures**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 SYSTEM METRICS • HACK STATISTICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hike414&show_icons=true&theme=transparent&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=00000000" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hike414&layout=compact&theme=transparent&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=00000000" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hike414&theme=transparent&hide_border=true&background=00000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" />
-</div>
-
-┌──[SYSTEM STATUS]  
-├── Commits Today: ████████░░ 80%  
-├── Security Level: ██████████ MAXIMUM  
-├── Exploit Success Rate: ████████░░ 87%  
-└── Network Infiltration: ██████████ COMPLETE
-
----
-
-## 📡 SECURE COMMUNICATION CHANNELS
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-┌──[root@darknet]~  
-└─$ ./establish_secure_connection.sh
+### Security Operations
+![SIEM](https://img.shields.io/badge/SIEM-FF6B6B?style=flat-square&logo=elastic&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-4ECDC4?style=flat-square&logo=suricata&logoColor=white)
+![Threat_Hunting](https://img.shields.io/badge/Threat_Hunting-95E1D3?style=flat-square&logo=target&logoColor=black)
+![SOAR](https://img.shields.io/badge/SOAR-F38181?style=flat-square&logo=flow&logoColor=white)
 
-<a href="mailto:iam.kvrevanth@gmail.com">
-  <img src="https://img.shields.io/badge/📧_ENCRYPTED_EMAIL-00FF00?style=flat&logo=gmail&logoColor=black&labelColor=00FF00&color=black" alt="Email" />
-</a>
+### Analysis & Intelligence
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E76A8?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=flat-square&logo=metasploit&logoColor=white)
+![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 
-<a href="https://www.linkedin.com/in/kodukula-venkat-revanth-9ab052265/">
-  <img src="https://img.shields.io/badge/🔗_LINKEDIN_PROFILE-00FF00?style=flat&logo=linkedin&logoColor=black&labelColor=00FF00&color=black" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/Hike414">
-  <img src="https://img.shields.io/badge/💀_GITHUB_ARSENAL-00FF00?style=flat&logo=github&logoColor=black&labelColor=00FF00&color=black" alt="GitHub" />
-</a>
-
-[+] Connection established  
-[+] Encryption: AES-256  
-[+] Status: SECURE
+### Development & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
 </div>
 
 ---
 
+## 🚀 Active Projects
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hike414&color=00FF00&style=flat&label=INFILTRATIONS" alt="Profile Views" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍯 Honeypot Hunter
+**Defensive Deception Detection**
+
+Identifies weaponized honeypots deployed by adversaries through behavioral analysis and protocol inspection.
+
+`Threat Intelligence` `Deception Technology` `Network Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Cyber Range
+**Attack-Defense Training Environment**
+
+Virtual laboratory for practicing blue team operations with realistic attack scenarios and centralized monitoring.
+
+`Security Training` `Incident Response` `SOC Simulation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Linux Firewall System
+**Custom Packet Filtering**
+
+Stateful firewall implementation with advanced rule chains and real-time traffic analysis for threat detection.
+
+`Network Security` `Traffic Analysis` `Defense Infrastructure`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Network Analyzer
+**Protocol-Level Inspection**
+
+Deep packet inspection tool for identifying anomalous patterns and potential security threats in network traffic.
+
+`Network Forensics` `Anomaly Detection` `Protocol Analysis`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔑 Hash Analysis Toolkit
+**Password Security Assessment**
+
+Auditing tool for evaluating organizational password policies and identifying weak cryptographic implementations.
+
+`Security Auditing` `Cryptography` `Policy Enforcement`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 TLS Fingerprinting (DTPE)
+**Encrypted Traffic Analysis**
+
+Research into identifying malicious traffic patterns through TLS/SSL fingerprinting for enhanced network visibility.
+
+`Threat Detection` `Encrypted Analysis` `Research`
+
+</td>
+</tr>
+</table>
+
 </div>
 
-┌──[FINAL MESSAGE]  
-├── "In the world of zeros and ones, I am the exception that proves the rule."  
-├── - KV Revanth, Digital Ghost  
-└── [CONNECTION TERMINATED]
+---
+
+## 📚 Publications
+
+**Vortex: An Enhanced Dynamic Honeypot System with Real-Time Attack Attribution and Adaptive Obfuscation**  
+*Grenze International Journal of Engineering and Technology, Vol. 11, Issue 2, 2023*
+
+**Multi-Scale Modelling for Sustainable Agriculture Using AI to Connect Local, Regional, and Global Systems**  
+*Cambridge Scholar Publications, ISBN: 978-1-0364-52201-9*
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀  
-    HACK THE PLANET
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hike414&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hike414&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hike414&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Security Philosophy
+
+*"The best defense is not just knowing how attacks work, but understanding why they succeed and building systems that make them fail."*
+
+<img src="https://komarev.com/ghpvc/?username=Hike414&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+**🔵 Blue Team | 🛡️ Defense in Depth | 🎯 Threat Intelligence | 🚨 Incident Response**
 
 </div>
