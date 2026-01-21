@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Security researcher passionate about **defensive security**, **threat intelligence**, and **incident response**. Currently working on building detection systems, analyzing threat patterns, and strengthening organizational security posture through proactive monitoring and response.
+Security researcher passionate about **defensive security**, **threat intelligence**, **malware analysis**, and **incident response**. Currently working on building detection systems, reverse engineering malicious code, analyzing threat patterns, and strengthening organizational security posture through proactive monitoring and response.
 
 ```python
 class SecurityAnalyst:
@@ -28,7 +28,8 @@ class SecurityAnalyst:
         return {
             "defense": ["SIEM", "IDS/IPS", "EDR", "Threat Hunting"],
             "intelligence": ["IOC Analysis", "MITRE ATT&CK", "Threat Modeling"],
-            "response": ["DFIR", "Malware Analysis", "Security Automation"]
+            "malware_analysis": ["Static Analysis", "Dynamic Analysis", "Reverse Engineering"],
+            "response": ["DFIR", "Forensic Investigation", "Security Automation"]
         }
 ```
 
@@ -70,6 +71,8 @@ class SecurityAnalyst:
 ### Analysis & Intelligence
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E76A8?style=flat-square&logo=nmap&logoColor=white)
+![Malware_Analysis](https://img.shields.io/badge/Malware_Analysis-E74C3C?style=flat-square&logo=virustotal&logoColor=white)
+![Reverse_Engineering](https://img.shields.io/badge/Reverse_Engineering-8E44AD?style=flat-square&logo=hackaday&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 
