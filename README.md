@@ -8,9 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodukula-venkat-revanth-9ab052265/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hike414)
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+</div>
 
 ## 👨‍💻 About Me
 
@@ -33,7 +33,7 @@ class SecurityAnalyst:
         }
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔬 Research Interests
 
@@ -56,7 +56,7 @@ class SecurityAnalyst:
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Technical Arsenal
 
@@ -84,7 +84,7 @@ class SecurityAnalyst:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Active Projects
 
@@ -163,7 +163,7 @@ Research into identifying malicious traffic patterns through TLS/SSL fingerprint
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 Publications
 
@@ -173,30 +173,40 @@ Research into identifying malicious traffic patterns through TLS/SSL fingerprint
 **Multi-Scale Modelling for Sustainable Agriculture Using AI to Connect Local, Regional, and Global Systems**  
 *Cambridge Scholar Publications, ISBN: 978-1-0364-52201-9*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hike414&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hike414&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Hike414">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hike414&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hike414&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hike414&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Hike414">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hike414&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hike414&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 ### 💭 Security Philosophy
 
 *"The best defense is not just knowing how attacks work, but understanding why they succeed and building systems that make them fail."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 <img src="https://komarev.com/ghpvc/?username=Hike414&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
