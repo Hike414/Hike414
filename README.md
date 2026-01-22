@@ -186,14 +186,6 @@ Research into identifying malicious traffic patterns through TLS/SSL fingerprint
 
 </div>
 
-<div align="center">
-  
-<a href="https://github.com/Hike414">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hike414&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-
 ### 💭 Security Philosophy
 
 *"The best defense is not just knowing how attacks work, but understanding why they succeed and building systems that make them fail."*
